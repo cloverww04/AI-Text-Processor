@@ -1,0 +1,6 @@
+task: reverse Hello, AI!
+task: add 5 8
+task: multiply 3 6
+task: subtract 10 4
+task: average 10 20 30
+task: factorial 5
